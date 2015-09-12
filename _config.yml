@@ -1,0 +1,21 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+gauges_id:
+google_analytics_id:
+
+repository: https://github.com/lyonsun/ME-learning-diary
+help_url: https://github.com/lyonsun/ME-learning-diary
+
+collections:
+  docs:
+    output: true
+
+name: ME-learning-diary
+description: recording my learning diary in ME
+url: https://lyonsun.github.io/ME-learning-diary
+
+gems:
+  - jekyll-feed
