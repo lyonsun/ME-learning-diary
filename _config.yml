@@ -16,6 +16,7 @@ collections:
 name: ME-learning-diary
 description: recording my learning diary in ME
 url: https://lyonsun.github.io/ME-learning-diary
+baseurl: /ME-learning-diary
 
 gems:
   - jekyll-feed
