@@ -12,3 +12,4 @@ date: 2015-10-05
 1. [Course 10.05.2015]({{site.baseurl}}/urban_planning/10052015.html)
 1. [Course 10.06.2015]({{site.baseurl}}/urban_planning/10062015.html)
 1. [Course 10.07.2015]({{site.baseurl}}/urban_planning/10072015.html)
+1. [Course 10.08.2015]({{site.baseurl}}/urban_planning/10082015.html)
