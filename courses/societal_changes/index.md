@@ -8,6 +8,7 @@ date: 2015-11-18
 
 ---
 
+# Lectures
 
 1. [Day 1 - 10.29.2015]({{site.baseurl}}societal_changes/10292015.html)
 
