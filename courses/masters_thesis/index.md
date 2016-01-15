@@ -14,4 +14,4 @@ date: 2015-12-01
 
 2. [Course 11.13.2015]({{site.baseurl}}/courses/masters_thesis/11132015.html)
 
-3. [Course 01.15.2015]({{site.baseurl}}/courses/masters_thesis/01152016.html)
+3. [Course 01.15.2016]({{site.baseurl}}/courses/masters_thesis/01152016.html)
