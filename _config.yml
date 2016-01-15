@@ -6,9 +6,9 @@ excerpt_separator: ""
 gauges_id:
 google_analytics_id:
 
-github_user: https://github.com/lyonsun/
-repository: https://github.com/lyonsun/ME-learning-diary/
-help_url: https://github.com/lyonsun/ME-learning-diary/
+github_user: https://github.com/lyonsun
+repository: https://github.com/lyonsun/ME-learning-diary
+help_url: https://github.com/lyonsun/ME-learning-diary
 
 collections:
   docs:
@@ -16,8 +16,8 @@ collections:
 
 name: ME Learning Diary
 description: My Master of Engineering Studies in Environmental Technology
-url: https://lyonsun.github.io/ME-learning-diary/
-baseurl: /ME-learning-diary/
+url: https://lyonsun.github.io/ME-learning-diary
+baseurl: /ME-learning-diary
 
 gems:
   - jekyll-feed
