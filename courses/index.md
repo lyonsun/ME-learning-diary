@@ -19,3 +19,5 @@ date: 2015-12-01
 ## [Master's Thesis]({{site.baseurl}}/courses/masters_thesis)
 
 ## [Climate Change and Its Environmental Impacts]({{site.baseurl}}/courses/climate_change)
+
+## [Environmental Management]({{site.baseurl}}/courses/environmental_management)
